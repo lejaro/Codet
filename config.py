@@ -1,1 +1,1 @@
-coding_app ='Visual Studio Code'
+coding_app = 'Visual Studio Code'
