@@ -7,7 +7,7 @@ def timer():
     paused = threading.Event()
     paused.clear()
 
-    def check_pause():
+    #def check_pause():
         while True:
             if keyboard.is_pressed('p'):
                 paused.set()
